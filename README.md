@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **C, Java e MySQL.**
 
-- 💬 Tenho conhecimento em **HTLM, CSS, JavaScript.**
+- 💬 Tenho conhecimento em **HTML, CSS, JavaScript.**
 
 - 📫 Você me acha através do e-mail **brunalbudel@gmail.com**
 
