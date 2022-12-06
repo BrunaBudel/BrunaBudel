@@ -1,13 +1,15 @@
 <h1 align="center">Oi 👋, eu sou a Bruna</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UFPR</h3>
 
+- 📌 Estou no terceiro período da faculdade.
+
 - 🌱 Atualmente estou estudando **C, Java e MySQL.**
 
 - 💬 Tenho conhecimento em **HTLM, CSS, JavaScript.**
 
 - 📫 Você me acha através do e-mail **brunalbudel@gmail.com**
 
-- 📄 Atualmente estou em busca de um estágio e aqui está o meu currículo [https://www.linkedin.com/in/bruna-kodama-76ba841bb/](https://www.linkedin.com/in/bruna-kodama-76ba841bb/)
+- 📄 Estou em busca de um estágio e aqui está o meu currículo [https://www.linkedin.com/in/bruna-kodama-76ba841bb/](https://www.linkedin.com/in/bruna-kodama-76ba841bb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
