@@ -7,7 +7,7 @@
 
 - 💬 Tenho conhecimento em **HTML, CSS, JavaScript.**
 
-- 📫 Você me acha através do e-mail **brunalbudel@gmail.com**
+- 📫 Você me acha através do e-mail **brunakbudel@gmail.com**
 
 - 📄 Estou em busca de um estágio e aqui está o meu currículo [https://drive.google.com/file/d/112Ug-_pRdcu_SAeul4YNRNYx-b8uJ-qJ/view?usp=sharing](https://drive.google.com/file/d/112Ug-_pRdcu_SAeul4YNRNYx-b8uJ-qJ/view?usp=sharing)
 
