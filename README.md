@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **brunalbudel@gmail.com**
 
-- 📄 Estou em busca de um estágio e aqui está o meu currículo [https://drive.google.com/file/d/1-QT8dyVE7Nc_9iEI9s7y-BMrhsTyzqzB/view?usp=sharing](https://drive.google.com/file/d/1-QT8dyVE7Nc_9iEI9s7y-BMrhsTyzqzB/view?usp=sharing)
+- 📄 Estou em busca de um estágio e aqui está o meu currículo [https://drive.google.com/file/d/112Ug-_pRdcu_SAeul4YNRNYx-b8uJ-qJ/view?usp=sharing](https://drive.google.com/file/d/112Ug-_pRdcu_SAeul4YNRNYx-b8uJ-qJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
