@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou a Bruna</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UFPR</h3>
 
-- 📌 Estou no terceiro período da faculdade.
+- 📌 Estou no quarto período da faculdade.
 
 - 🌱 Atualmente estou estudando **C, Java e MySQL.**
 
