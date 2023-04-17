@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **brunakbudel@gmail.com**
 
-- 📄 Estou em busca de um estágio e aqui está o meu currículo [https://drive.google.com/file/d/1sPvVFbxXrnZnK9JuSwEHmCMEX_qthfB2/view?usp=sharing](https://drive.google.com/file/d/1sPvVFbxXrnZnK9JuSwEHmCMEX_qthfB2/view?usp=sharing)
+- 📄 Sou desenvolvedora Front-End Jr 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
