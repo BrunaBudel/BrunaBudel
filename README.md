@@ -3,13 +3,14 @@
 
 - 📌 Estou no quinto período da faculdade.
 
+- 📄 Sou desenvolvedora Front-End Jr 
+
 - 🌱 Atualmente estou estudando **React Native e React.**
 
 - 💬 Tenho conhecimento em **HTML, CSS, JavaScript, TypeScript e TailwindCss.**
 
 - 📫 Você me acha através do e-mail **brunakbudel@gmail.com**
 
-- 📄 Sou desenvolvedora Front-End Jr 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
