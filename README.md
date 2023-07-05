@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou a Bruna</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UFPR</h3>
 
-- 📌 Estou no quarto período da faculdade.
+- 📌 Estou no quinto período da faculdade.
 
-- 🌱 Atualmente estou estudando **C, Java e MySQL.**
+- 🌱 Atualmente estou estudando **React Native e React.**
 
-- 💬 Tenho conhecimento em **HTML, CSS, JavaScript.**
+- 💬 Tenho conhecimento em **HTML, CSS, JavaScript, TypeScript e TailwindCss.**
 
 - 📫 Você me acha através do e-mail **brunakbudel@gmail.com**
 
