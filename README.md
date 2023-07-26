@@ -7,8 +7,6 @@
 
 - 🌱 Atualmente estou estudando **React Native, React e Node.JS.**
 
-- 💬 Tenho conhecimento em **HTML, CSS, JavaScript, TypeScript e TailwindCss.**
-
 - 📫 Você me acha através do e-mail **brunakbudel@gmail.com**
 
 
