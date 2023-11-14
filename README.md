@@ -22,7 +22,6 @@
 
 ## Meu GitHub
 
-[![card](https://github-readme-stats.vercel.app/api?username=BrunaBudel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![BrunaBudel](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaBudel&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar:
