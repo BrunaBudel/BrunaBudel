@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **UFPR**.
 
-- 📄 Sou desenvolvedora Front-End Jr.
+- 📄 Sou desenvolvedora Front-End.
 
 - 🌱 Estou aprendendo mais sobre **React Native, React e Node.JS.**
 
